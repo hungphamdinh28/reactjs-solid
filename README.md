@@ -16,7 +16,7 @@ You can run the dev server using:
 
 ```bash
 yarn install
-yarn dev
+yarn start
 ```
 
 Change the component in `App.tsx` with the corresponding Principle's component name to see the demo.
